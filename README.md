@@ -1,5 +1,7 @@
 # Demo DataGrip PostgreSQL database
 
+<img src="README.png" alt="DataGrip + PostgresSQL" style="width: 100%;"/>
+
 This demo show how to use:
 
   * DataGrip database management software by JetBrains.
