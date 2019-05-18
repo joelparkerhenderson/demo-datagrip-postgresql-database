@@ -2,9 +2,9 @@
 
 This demo show how to use:
 
-  * DataGrip database management software by JetBrains
+  * DataGrip database management software by JetBrains.
 
-  * PostgreSQL database management system
+  * PostgreSQL database management system.
 
   * A demo database, demo table, and columns.
 
@@ -91,7 +91,7 @@ If so, good.
 
 If not, then create it:
 
-  * Database > + > Schema 
+  * Database > + > Schema
 
   * Name: public
 
@@ -128,7 +128,7 @@ create table demo_table
 
 Create a primary key, such as a column name "id", and a type "serial":
 
-  * Create New Table > Columns tab > + 
+  * Create New Table > Columns tab > +
 
     * Name: id
 
@@ -151,7 +151,7 @@ create table demo_table
 
 Create a column for typical data entry, such as a column name "info", and a type "text".
 
-  * Create New Table > Columns tab > + 
+  * Create New Table > Columns tab > +
 
     * Name: info
 
