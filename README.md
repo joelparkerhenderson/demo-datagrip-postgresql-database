@@ -8,7 +8,7 @@ This demo show how to use:
 
   * PostgreSQL database management system.
 
-  * A demo database, demo table, and columns.
+  * A demo database, schema, table, and columns.
 
 Contents:
 
