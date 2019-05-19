@@ -14,9 +14,9 @@ Contents:
 
 * [Connect PostgreSQL as a data source](#connect-postgresql-as-a-data-source)
 * [Connect to your local PostgreSQL DBMS](#connect-to-your-local-postgresql-dbms)
-* [Create a demo database](#create-a-demo-database)
-* [Create a public schema](#create-a-public-schema)
-* [Create a demo table and columns](#create-a-demo-table-and-columns)
+* [Create a database](#create-a-database)
+* [Create a schema](#create-a-schema)
+* [Create a table and columns](#create-a-table-and-columns)
 * [Conclusion](#conclusion)
 
 
@@ -52,7 +52,7 @@ In the window "Data Sources and Drivers", do these:
   * Click: OK
 
 
-## Create a demo database
+## Create a database
 
 Create a demo database by using the "Database" window:
 
@@ -81,7 +81,7 @@ Now, if you click the new database name, then click the dropdown arrow, the tool
   * Database > Refresh icon
 
 
-## Create a public schema
+## Create a schema
 
 Does your database already have a public schema?
 
@@ -112,7 +112,7 @@ Then:
 Caution: in our version of DataGrip, we see an error message "The schema already exists", and then shows the folder name "schemas", and within it, the schema name "public". As far as we know, this is a bug, and also is harmless.
 
 
-## Create a demo table and columns
+## Create a table and columns
 
 In the "Database" window:
 
